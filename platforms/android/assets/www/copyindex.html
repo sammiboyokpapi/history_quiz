@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<!--
+    Copyright (c) 2012-2014 Adobe Systems Incorporated. All rights reserved.
+
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+    	<style type="text/css">
+    	
+    	ul{
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+    	}
+    	
+#grad1 {
+    height: 200px;
+   background-image: url('img/2.png');
+   /* background: linear-gradient(to bottom,#000000, #000000);  Standard syntax (must be last) */
+}
+
+  li {
+  	
+    margin: 0;
+    padding: 1%;
+    display: inline-block;
+    width: 47%;
+    float: left;
+  }
+    .image{  
+  
+   width: 100%;
+   height: 200px;  
+
+  border:solid;
+ border-color:white;
+border-radius: 5px;
+
+-webkit-box-shadow:inset 0px 0px 0px 1px #000;
+    -moz-box-shadow:inset 0px 0px 0px 1px #000;
+    box-shadow:inset 0px 0px 0px 1px #000;
+    	}
+    	
+    	.whitefont{
+    	font-family: "adobe-clean",sans-serif;
+font-size: 16px;
+color: #FFFFFF;
+text-shadow: 1px 1px 0px #0D7796;
+    		
+    	}
+    	</style>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+    	<div style="position: absolute; width: 100%; height: 100%;border-radius: 5px;" id="grad1">
+    		<ul ><li>
+    			<div class="image" style="background-image: url('img/1.jpg');background-size: 100% 100%;"> 
+    				 
+    				 	</div>
+    			
+    			</li>
+    			<li><div class="image" style="background-image: url('img/2.png');background-size: 100% 100%;">  	</div>
+    				</li></ul>
+    
+    
+    <ul ><li>
+    			<div class="image" style="background-image: url('img/3.jpg');background-size: 100% 100%;"> 
+    				 
+    				 	</div>
+    			</li>
+    			<li><div class="image" style="background-image: url('img/4.jpg');background-size: 100% 100%;">  </div>
+    				</li></ul>
+    				
+    		<div style="position: fixed; bottom: 0; height: 10%;width:100%; background-color:#0033CC "><span class="whitefont">asaaddsssasd</span></div>
+    		
+<div style="position: fixed; bottom: 10%; height: 5%;width:100%; background-color:#3366FF "><span class="whitefont">Hello World</span></div>
+
+      	
+      	
+      	
+      </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript">
+            app.initialize();
+        </script>
+    </body>
+</html>

@@ -30,6 +30,7 @@ c:\wamp\www\history_quiz\platforms\android\ant-build\res\drawable-xhdpi\icon.png
 c:\wamp\www\history_quiz\platforms\android\assets\www \
 c:\wamp\www\history_quiz\platforms\android\assets\_where-is-www.txt \
 c:\wamp\www\history_quiz\platforms\android\assets\www\config.xml \
+c:\wamp\www\history_quiz\platforms\android\assets\www\copyindex.html \
 c:\wamp\www\history_quiz\platforms\android\assets\www\cordova.js \
 c:\wamp\www\history_quiz\platforms\android\assets\www\cordova_plugins.js \
 c:\wamp\www\history_quiz\platforms\android\assets\www\css \
@@ -42,7 +43,18 @@ c:\wamp\www\history_quiz\platforms\android\assets\www\res \
 c:\wamp\www\history_quiz\platforms\android\assets\www\spec \
 c:\wamp\www\history_quiz\platforms\android\assets\www\spec.html \
 c:\wamp\www\history_quiz\platforms\android\assets\www\css\index.css \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\1.jpg \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\2.png \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\3.jpg \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\4.jpg \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\9iRpRkKnT.gif \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\back.png \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\background.jpg \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\background2.jpg \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\l.png \
 c:\wamp\www\history_quiz\platforms\android\assets\www\img\logo.png \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\LOGONEWorigin.png \
+c:\wamp\www\history_quiz\platforms\android\assets\www\img\middle_kingdom.jpg \
 c:\wamp\www\history_quiz\platforms\android\assets\www\js\index.js \
 c:\wamp\www\history_quiz\platforms\android\assets\www\res\icon \
 c:\wamp\www\history_quiz\platforms\android\assets\www\res\screen \
